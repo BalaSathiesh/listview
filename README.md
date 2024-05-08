@@ -155,7 +155,7 @@ public class CustomAdapter extends BaseAdapter {
 ```
 
 ## OUTPUT
-![image](https://github.com/BalaSathiesh/listview/assets/128462891/145c0efa-3e59-4c09-9f16-a66bf4d97919)
+![image](https://github.com/BalaSathiesh/listview/assets/128462891/ab1b4e38-40f5-445b-ab0a-5981cd7e9b42)
 
 
 
